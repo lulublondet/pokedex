@@ -1,0 +1,828 @@
+{
+"capture_rate": 45,
+"habitat": {
+"url": "http://pokeapi.co/api/v2/pokemon-habitat/2/",
+"name": "forest"
+},
+"color": {
+"url": "http://pokeapi.co/api/v2/pokemon-color/10/",
+"name": "yellow"
+},
+"forms_switchable": false,
+"shape": {
+"url": "http://pokeapi.co/api/v2/pokemon-shape/13/",
+"name": "bug-wings"
+},
+"names": [
+{
+"name": "Beedrill",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"name": "Beedrill",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"name": "Beedrill",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"name": "Bibor",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"name": "Dardargnan",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"name": "大針蜂",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/4/",
+"name": "zh"
+}
+},
+{
+"name": "독침붕",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"name": "Spear",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/2/",
+"name": "roomaji"
+}
+},
+{
+"name": "スピアー",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+}
+],
+"id": 15,
+"egg_groups": [
+{
+"url": "http://pokeapi.co/api/v2/egg-group/3/",
+"name": "bug"
+}
+],
+"base_happiness": 70,
+"generation": {
+"url": "http://pokeapi.co/api/v2/generation/1/",
+"name": "generation-i"
+},
+"flavor_text_entries": [
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "縄張り意識が　とても　強いので　スピアーの\nす かには　近づかない　ほうが　身の　ためだ。\n怒ると　集団で　襲って　くるぞ。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/11/",
+"name": "ja-kanji"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "Beedrill difende strenuamente il proprio territorio. Per ragioni\ndi sicurezza nessuno può avvicinarsi al suo nido. Se vengono\ndisturbati, questi Pokémon attaccano violentemente in sciami.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "Los Beedrill defienden su territorio a toda costa. No es\nconveniente acercarse a su colmena, por seguridad. Si se\nles molesta, todo un enjambre atacará ferozmente.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "Bibor ist sehr wehrhaft. Es sollte sich besser niemand\nseinem Nest nähern. Wenn man sie ärgert, greifen sie in\nSchwärmen an.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "Dardargnan est extrêmement possessif. Il vaut mieux ne pas\ntoucher son nid si on veut éviter d’avoir des ennuis.\nLorsqu’ils sont en colère, ces Pokémon attaquent en masse.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "영역에 대한 집착이 매우 강해서 독침붕이\n사는 곳에는 가까이 가지 않는 것이 신상에 좋다.\n화나면 집단으로 습격해 온다.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/26/",
+"name": "alpha-sapphire"
+},
+"flavor_text": "なわばりいしきが　とても　つよいので　スピアーの\nす かには　ちかづかない　ほうが　 の　ためだ。\nおこると　しゅうだんで　おそって　くるぞ。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "縄張り意識が　とても　強いので　スピアーの\nす かには　近づかない　ほうが　身の　ためだ。\n怒ると　集団で　襲って　くるぞ。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/11/",
+"name": "ja-kanji"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "Beedrill difende strenuamente il proprio territorio. Per ragioni\ndi sicurezza nessuno può avvicinarsi al suo nido. Se vengono\ndisturbati, questi Pokémon attaccano violentemente in sciami.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "Los Beedrill defienden su territorio a toda costa. No es\nconveniente acercarse a su colmena, por seguridad. Si se\nles molesta, todo un enjambre atacará ferozmente.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "Bibor sind sehr wehrhaft. Es sollte sich besser niemand\nihrem Nest nähern. Wenn man sie ärgert, greifen sie in\nSchwärmen an.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "Dardargnan est extrêmement possessif. Il vaut mieux ne pas\ntoucher son nid si on veut éviter d’avoir des ennuis.\nLorsqu’ils sont en colère, ces Pokémon attaquent en masse.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "영역에 대한 집착이 매우 강해서 독침붕이\n사는 곳에는 가까이 가지 않는 것이 신상에 좋다.\n화나면 집단으로 습격해 온다.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/25/",
+"name": "omega-ruby"
+},
+"flavor_text": "なわばりいしきが　とても　つよいので　スピアーの\nす かには　ちかづかない　ほうが　 の　ためだ。\nおこると　しゅうだんで　おそって　くるぞ。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "集団で　現れることもある。\n猛スピードで　飛び回り\nお尻の　毒針で　刺しまくる。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/11/",
+"name": "ja-kanji"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "May appear in a swarm. Flies at violent speeds,\nall the while stabbing with the toxic stinger on\nits rear.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "Si può trovare anche in sciami. Vola a incredibili\nvelocità, colpendo con il velenoso pungiglione\nsituato sull’addome.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "Puede aparecer en enjambres volando a gran\nvelocidad. Suele usar el venenoso aguijón inferior\npara atacar.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "Es kann in Schwärmen auftauchen. Während seines\nrasanten Fluges sticht es mit dem Giftstachel\nan seinem Hinterteil zu.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "On le voit souvent voler dans un essaim. Il vole très\nrapidement, piquant sans cesse ses adversaires de\nson dard toxique.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "집단으로 나타나기도 한다.\n맹렬한 스피드로 날아\n엉덩이의 독침으로 마구 찌른다.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/24/",
+"name": "y"
+},
+"flavor_text": "しゅうだんで　あらわれることもある。\nもうスピードで　とびまわり\nおしりの　どくばりで　さしまくる。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "両手と　お尻にある　３本の　毒針で\n相手を　刺して　刺して\n刺しまくって　攻撃する。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/11/",
+"name": "ja-kanji"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "It has three poisonous stingers on its forelegs and\nits tail. They are used to jab its enemy repeatedly.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "Possiede tre aculei velenosi sulle zampe anteriori e\nsull’addome con cui punge i nemici ripetutamente.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "Tiene 3 aguijones venenosos en sus patas y cola.\nSuelen pinchar a sus enemigos repetidas veces.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "Dieses Pokémon verfügt über drei Giftstachel.\nEs kann seine Gegner damit wiederholt stechen.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "Il se sert de ses trois aiguillons empoisonnés pour\nattaquer sans relâche ses adversaires.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "양손과 엉덩이에 있는 3개의\n독침으로 상대를 찌르고 찌르고\n또 찌르며 공격한다.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/23/",
+"name": "x"
+},
+"flavor_text": "りょうてと　おしりにある　３ぼんの\nどくばりで　あいてを　さして　さして\nさしまくって　こうげきする。",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/22/",
+"name": "white-2"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/21/",
+"name": "black-2"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/18/",
+"name": "white"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/18/",
+"name": "white"
+},
+"flavor_text": "Il virevolte rapidement autour de\nl’ennemi et frappe de son dard\nempoisonné avant de décamper.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/17/",
+"name": "black"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/17/",
+"name": "black"
+},
+"flavor_text": "Il virevolte rapidement autour de\nl’ennemi et frappe de son dard\nempoisonné avant de décamper.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/16/",
+"name": "soulsilver"
+},
+"flavor_text": "It has three poison barbs.\nThe barb on its tail secretes the\nmost powerful poison.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/15/",
+"name": "heartgold"
+},
+"flavor_text": "It can take down any opponent with\nits powerful poison stingers.\nIt sometimes attacks in swarms.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/14/",
+"name": "platinum"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/13/",
+"name": "pearl"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/12/",
+"name": "diamond"
+},
+"flavor_text": "Its best attack involves flying\naround at high speed, striking with\npoison needles, then flying off.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/11/",
+"name": "leafgreen"
+},
+"flavor_text": "It flies at high speed and attacks using \nthe large venomous stingers on its\nforelegs and tail.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/10/",
+"name": "firered"
+},
+"flavor_text": "May appear in a swarm. Flies at violent\nspeeds, all the while stabbing with the\ntoxic stinger on its rear.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/9/",
+"name": "emerald"
+},
+"flavor_text": "A BEEDRILL is extremely territorial.\nFor safety reasons, no one should \never approach its nest. If angered,\nthey will attack in a swarm.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/8/",
+"name": "sapphire"
+},
+"flavor_text": "BEEDRILL is extremely territorial.\nNo one should ever approach its nest -\nthis is for their own safety.\fIf angered, they will attack in a furious\nswarm.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/7/",
+"name": "ruby"
+},
+"flavor_text": "BEEDRILL is extremely territorial.\nNo one should ever approach its nest -\nthis is for their own safety.\fIf angered, they will attack in a furious\nswarm.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/6/",
+"name": "crystal"
+},
+"flavor_text": "It uses sharp,\npoisonous stings\nto defeat prey,\fthen takes the\nvictim back to its\nnest for food.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/5/",
+"name": "silver"
+},
+"flavor_text": "It has three\npoison barbs.\nThe barb on its\ftail secretes the\nmost powerful\npoison.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/4/",
+"name": "gold"
+},
+"flavor_text": "It can take down\nany opponent with\nits powerful poi­\fson stingers. It\nsometimes attacks\nin swarms.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/3/",
+"name": "yellow"
+},
+"flavor_text": "It has 3 poisonous\nstingers on its\nforelegs and its\ftail. They are\nused to jab its\nenemy repeatedly.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/2/",
+"name": "blue"
+},
+"flavor_text": "Flies at high\nspeed and attacks\nusing its large\fvenomous stingers\non its forelegs\nand tail.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"version": {
+"url": "http://pokeapi.co/api/v2/version/1/",
+"name": "red"
+},
+"flavor_text": "Flies at high\nspeed and attacks\nusing its large\fvenomous stingers\non its forelegs\nand tail.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+}
+],
+"growth_rate": {
+"url": "http://pokeapi.co/api/v2/growth-rate/2/",
+"name": "medium"
+},
+"hatch_counter": 15,
+"genera": [
+{
+"genus": "Poison Bee",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/9/",
+"name": "en"
+}
+},
+{
+"genus": "Velenape",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/8/",
+"name": "it"
+}
+},
+{
+"genus": "Abeja Ven.",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/7/",
+"name": "es"
+}
+},
+{
+"genus": "Giftbiene",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/6/",
+"name": "de"
+}
+},
+{
+"genus": "Guêpoison",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/5/",
+"name": "fr"
+}
+},
+{
+"genus": "독벌",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/3/",
+"name": "ko"
+}
+},
+{
+"genus": "どくばち",
+"language": {
+"url": "http://pokeapi.co/api/v2/language/1/",
+"name": "ja"
+}
+}
+],
+"evolves_from_species": {
+"url": "http://pokeapi.co/api/v2/pokemon-species/14/",
+"name": "kakuna"
+},
+"form_descriptions": [],
+"varieties": [
+{
+"is_default": true,
+"pokemon": {
+"url": "http://pokeapi.co/api/v2/pokemon/15/",
+"name": "beedrill"
+}
+},
+{
+"is_default": false,
+"pokemon": {
+"url": "http://pokeapi.co/api/v2/pokemon/10090/",
+"name": "beedrill-mega"
+}
+}
+],
+"name": "beedrill",
+"evolution_chain": {
+"url": "http://pokeapi.co/api/v2/evolution-chain/5/"
+},
+"has_gender_differences": false,
+"is_baby": false,
+"gender_rate": 4,
+"pal_park_encounters": [
+{
+"rate": 20,
+"base_score": 70,
+"area": {
+"url": "http://pokeapi.co/api/v2/pal-park-area/1/",
+"name": "forest"
+}
+}
+],
+"order": 15,
+"pokedex_numbers": [
+{
+"entry_number": 28,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/12/",
+"name": "kalos-central"
+}
+},
+{
+"entry_number": 177,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/11/",
+"name": "conquest-gallery"
+}
+},
+{
+"entry_number": 29,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/7/",
+"name": "updated-johto"
+}
+},
+{
+"entry_number": 29,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/3/",
+"name": "original-johto"
+}
+},
+{
+"entry_number": 15,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/2/",
+"name": "kanto"
+}
+},
+{
+"entry_number": 15,
+"pokedex": {
+"url": "http://pokeapi.co/api/v2/pokedex/1/",
+"name": "national"
+}
+}
+]
+}
